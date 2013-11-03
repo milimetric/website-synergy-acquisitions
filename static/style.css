@@ -2321,7 +2321,7 @@ input[type="submit"] {
 
 div.content-featured { background-color: #2B3051; }
 div.footer { text-align: center; }
-div.overview-holder { background-color: #383F6B !important; color: white; z-index: 1000; top: 133px; left: 563px; opacity: 0.9; }
+div.overview-holder { background-color: #383F6B !important; color: white; z-index: 1000; top: 133px; right: 82px; opacity: 0.9; }
 div.firm-overview { width: 610px; height: 280px; padding-top: 10px; }
 p.emphasis:first-letter { font-size: 220%; margin: 10px 3px 0 0; font-family:"Times New Roman"; }
 h3.emphasis { text-decoration: double-underline; }
