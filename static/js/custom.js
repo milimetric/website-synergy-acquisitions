@@ -1138,6 +1138,7 @@ jQuery(document).ready(function ($) {
 
     // Set minimum height so that the footer will stay at the bottom of the window even if there isn't enough content
     function setMinHeight() {
+        return;
         var body = $('body');
         var wrap = $('#wrap');
         var content = $('#content');
